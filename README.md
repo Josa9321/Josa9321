@@ -1,16 +1,13 @@
-### Hi there 👋
+<img alt="Banner" src="canva_banner.png">
 
-<!--
-**Josa9321/Josa9321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Operations Research's student researcher and programmer.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at **MBN Soluções Tecnológicas**
+- 🌱 I’m starting to learn **Data Science**
+- 💬 Ask me about **Mathematical Programming, Metaheuristics, Multiobjective Optimization** and **Multicriteria Methods**
+- 📫 How to reach me **josenildo.junior9321@gmail.com**
+- 📄 Know about my experiences [https://www.linkedin.com/in/Josa9321/](https://www.linkedin.com/in/Josa9321/)
+- ⚡ Fun fact **I love 🏊🏽** and **I'm in the final stretch of unlocking all 🌲 in the Forest app**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-dots.svg" alt="julia" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>

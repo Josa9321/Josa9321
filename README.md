@@ -2,7 +2,7 @@
 
 An Operations Research's student researcher and programmer.
 
-- 🔭 I’m currently working at **MBN Soluções Tecnológicas**
+- 🔭 I am currently engaged in a master's degree program in **Industrial Engineering**
 - 🌱 I’m starting to learn **Data Science**
 - 💬 Ask me about **Mathematical Programming, Metaheuristics, Multiobjective Optimization** and **Multicriteria Methods**
 - 📫 How to reach me **josenildo.junior9321@gmail.com**

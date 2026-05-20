@@ -1,11 +1,9 @@
 <img alt="Banner" src="canva_banner.png">
 
-An Operations Research's student researcher and programmer.
-
-- 🔭 I am currently engaged in a master's degree program in **Industrial Engineering**
-- 💬 Ask me about **Mathematical Programming, Metaheuristics, Multiobjective Optimization** and **Multicriteria Methods**
-- 📫 How to reach me **josenildo.junior9321@gmail.com**
-- 📄 Know about my experiences [https://www.linkedin.com/in/Josa9321/](https://www.linkedin.com/in/Josa9321/)
+- 🎓 **M.Sc. in Industrial Engineering** | Operations Research & Optimization Specialist
+- 💬 Ask me about **Mathematical Programming, Metaheuristics, Multi-Objective Optimization**, and **Multi-Criteria Decision Making**
+- 📫 **Contact:** josenildo.junior9321@gmail.com
+- 🔗 **Connect:** [linkedin.com/in/Josa9321](https://www.linkedin.com/in/Josa9321/)
 
 ## 🔧 Languages and Tools
 

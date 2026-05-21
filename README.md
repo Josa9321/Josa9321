@@ -11,13 +11,17 @@
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="28"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28"/></a>
   <a href="https://julialang.org/"><img src="https://img.shields.io/badge/Julia-%239558B2.svg?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" height="28"/></a>
-  <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%233776AB.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="28"/></a>
+  <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="28"/></a>
   <a href="https://jump.dev/"><img src="https://github.com/Josa9321/Josa9321/blob/main/JUMP.svg" alt="JuMP.jl logo" height="28"/></a>
   <a href="http://www.pyomo.org/"><img src="https://github.com/Josa9321/Josa9321/blob/main/PYOMO.svg" alt="Pyomo logo" height="28"/></a>
   <a href="https://www.gurobi.com/"><img src="https://img.shields.io/badge/Gurobi-%238A1538.svg?style=for-the-badge&logo=gurobi&logoColor=white" alt="Gurobi" height="28"/></a>
   <a href="https://www.ibm.com/products/ilog-cplex-optimization-studio"><img src="https://github.com/Josa9321/Josa9321/blob/main/CPLEX.svg" alt="CPLEX" height="28"/></a>
+  <a href="https://highs.dev/"><img src="https://github.com/Josa9321/Josa9321/blob/main/HIGHS.svg" alt="HiGHS" height="28"/></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="28"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="28"/></a>
+  <a href="https://plotly.com/"><img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" height="28"/></a>
 </div>
+
 
 ## :pushpin: Projects
 
@@ -52,7 +56,7 @@
       <p>
         <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="22"/></a>
         <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="22"/></a>
-        <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%233776AB.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="22"/></a>
+        <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="22"/></a>
         <a href="http://www.pyomo.org/"><img src="https://github.com/Josa9321/Josa9321/blob/main/PYOMO.svg" alt="Pyomo logo" height="22"/></a>
       </p>
       <p>A work-in-progress repository featuring a heuristic written in C++ for solving the Traveling Salesman Problem (TSP), with SQLite integration for storing and managing computational results.</p>

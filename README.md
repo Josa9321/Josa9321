@@ -11,14 +11,15 @@
   <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="28"/></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="28"/></a>
   <a href="https://julialang.org/"><img src="https://img.shields.io/badge/Julia-%239558B2.svg?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" height="28"/></a>
+  <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%233776AB.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="28"/></a>
   <a href="https://jump.dev/"><img src="https://github.com/Josa9321/Josa9321/blob/main/JUMP.svg" alt="JuMP.jl logo" height="28"/></a>
-    <a href="http://www.pyomo.org/"><img src="https://github.com/Josa9321/Josa9321/blob/main/PYOMO.svg" alt="Pyomo logo" height="28"/></a>
+  <a href="http://www.pyomo.org/"><img src="https://github.com/Josa9321/Josa9321/blob/main/PYOMO.svg" alt="Pyomo logo" height="28"/></a>
   <a href="https://www.gurobi.com/"><img src="https://img.shields.io/badge/Gurobi-%238A1538.svg?style=for-the-badge&logo=gurobi&logoColor=white" alt="Gurobi" height="28"/></a>
   <a href="https://www.ibm.com/products/ilog-cplex-optimization-studio"><img src="https://github.com/Josa9321/Josa9321/blob/main/CPLEX.svg" alt="CPLEX" height="28"/></a>
   <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="28"/></a>
 </div>
 
-## 💬 How to contact me
+## 💬 Contact
  
 <div> 
   <a href = "mailto:josenildo.junior9321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,7 +27,7 @@
 
 </div>
 
-## :pushpin: Projects
+# :pushpin: Projects
 
 ###
  
@@ -51,6 +52,18 @@
         <a href="https://julialang.org/"><img src="https://img.shields.io/badge/Julia-%239558B2.svg?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" height="22"/></a>
         <a href="https://jump.dev/"><img src="https://github.com/Josa9321/Josa9321/blob/main/JUMP.svg" alt="JuMP.jl logo" height="22"/></a>
       </p>
-      <p>An open-source Julia package built on top of MathOptInterface and MultiObjectiveAlgorithms for solving multi-objective optimization problems using AUGMECON variants. Features native support for multi-objective metric evaluation and visual result exploration </p>
+      <p>An open-source Julia package built on top of MathOptInterface and MultiObjectiveAlgorithms for solving multi-objective optimization problems using AUGMECON variants. Features native support for multi-objective metric evaluation and visual result exploration.</p>
+  </td>
+  <td valign="top">
+        <h3 align="left">Travelling Salesman Problem</h3>
+      <p><a href="https://github.com/Josa9321/tsp"><strong>🔗 View Repository</strong></a></p>
+      <p>
+        <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="22"/></a>
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="22"/></a>
+        <a href="https://sqlite.org/"><img src="https://img.shields.io/badge/SQLite-%233776AB.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="22"/></a>
+        <a href="http://www.pyomo.org/"><img src="https://github.com/Josa9321/Josa9321/blob/main/PYOMO.svg" alt="Pyomo logo" height="22"/></a>
+      </p>
+      <p>A work-in-progress repository featuring a heuristic written in C++ for solving the Traveling Salesman Problem (TSP), with SQLite integration for storing and managing computational results.</p>
+  </td>
   </tr>
 </table>

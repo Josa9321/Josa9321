@@ -19,15 +19,7 @@
   <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="28"/></a>
 </div>
 
-## 💬 Contact
- 
-<div> 
-  <a href = "mailto:josenildo.junior9321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/josa9321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
-
-# :pushpin: Projects
+## :pushpin: Projects
 
 ###
  
@@ -67,3 +59,11 @@
   </td>
   </tr>
 </table>
+
+## 💬 Contact
+ 
+<div> 
+  <a href = "mailto:josenildo.junior9321@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/josa9321" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
